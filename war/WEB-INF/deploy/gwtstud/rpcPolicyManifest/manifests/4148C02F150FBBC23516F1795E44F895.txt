@@ -1,0 +1,2 @@
+serviceClass: pl.gozdek.gwtstud.client.AuthService
+path: 9108A6E230EC6CA6E1A476E238201FD7.gwt.rpc

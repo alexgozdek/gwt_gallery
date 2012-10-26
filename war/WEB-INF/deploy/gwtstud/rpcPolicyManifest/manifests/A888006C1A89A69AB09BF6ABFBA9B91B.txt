@@ -1,0 +1,2 @@
+serviceClass: pl.gozdek.gwtstud.client.RandomPictUrlService
+path: 4F2613EF59CAF604D7BD3DDC4612C1BC.gwt.rpc

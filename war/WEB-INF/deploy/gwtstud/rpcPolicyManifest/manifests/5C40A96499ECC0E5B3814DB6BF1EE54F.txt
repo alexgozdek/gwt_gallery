@@ -1,0 +1,2 @@
+serviceClass: pl.gozdek.gwtProj.client.PictUrlService
+path: D2915875290B660E450719E042D271BF.gwt.rpc

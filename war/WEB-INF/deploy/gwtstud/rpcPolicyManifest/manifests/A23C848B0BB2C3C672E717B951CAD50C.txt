@@ -1,0 +1,2 @@
+serviceClass: pl.puzniakowski.gwtstud.client.RandomPictUrlService
+path: 941E818400F21A20E26921B3AF49E7A4.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: pl.puzniakowski.gwtstud.client.AuthService
+path: D7A8F38D731BABBA3816C4585E654F7F.gwt.rpc
